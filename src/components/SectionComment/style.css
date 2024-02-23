@@ -1,0 +1,28 @@
+.container-section-comments{
+    width: 320px;
+    height: 935px;
+    top: 696px;
+    
+    background-color:#C8C8C8;
+    margin-top: 50px;
+}
+
+.section-comments-title{
+    width: 208px;
+    height: 30px;
+    top: 721px;
+    left: 56px;
+
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #5E5E5E;
+
+    margin-top: 25px;
+    margin-left: 56px;
+    margin-right: 56px;
+}

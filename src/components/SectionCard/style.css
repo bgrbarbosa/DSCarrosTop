@@ -1,0 +1,25 @@
+.ct-container-section { 
+    background-color: var(--ct-color-bg-primary);
+    width: 280px;
+    height: 576px;
+    top: 95px;
+    left: 20px; 
+  }
+  
+  .ct-container-section h1 {
+    width: 180px; 
+    height: 30px;
+    top: 95px;
+    left: 70px;
+    margin-top: 25px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#5E5E5E;
+  }

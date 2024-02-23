@@ -1,0 +1,11 @@
+.container-page { 
+    width: 320px;
+
+    border-style: solid;
+    border: 1px;
+    border-color: black;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Alinhamento horizontal */
+  }

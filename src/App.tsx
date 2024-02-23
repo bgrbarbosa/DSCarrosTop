@@ -1,10 +1,11 @@
 import './App.css'
+import Catalog from './Pages/Catalog'
 
 function App() {
 
   return (
     <>
-      <h3>Projeto Clean criado</h3>
+      <Catalog/>
     </>
   )
 }
