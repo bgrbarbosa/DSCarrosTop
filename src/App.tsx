@@ -4,9 +4,9 @@ import Catalog from './Pages/Catalog'
 function App() {
 
   return (
-    <>
+    <div className='container'>
       <Catalog/>
-    </>
+    </div>
   )
 }
 
