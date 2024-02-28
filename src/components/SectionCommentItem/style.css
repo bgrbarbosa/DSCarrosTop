@@ -32,3 +32,38 @@
 
     color: #3C9AF0;
 }
+
+@media (min-width: 1200px) {
+
+    .container-section-comment-item{
+        width: 960px;
+        height: 74px;
+        top: 1515px;
+        left: 120px;
+        border-radius: 12px;
+        border: 1px;
+    
+        background: #FFFFFF;
+        border: 1px solid #3C9AF0;
+    
+        margin-top: 25px;
+        margin-left: 120px;
+        margin-right: 120px;    
+    }
+
+    .container-section-comment-item-text{
+        width: 812px;
+        height: 24px;
+        top: 1540px;
+        left: 140px;
+    
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+    
+        color: #3C9AF0;
+    }
+}

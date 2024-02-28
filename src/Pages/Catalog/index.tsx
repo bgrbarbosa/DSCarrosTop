@@ -10,7 +10,7 @@ export default function Catalog(){
             <Header/>
             <SectionCard/>
             <SectionComment/>
-            <Footer/>    
+            <Footer/>   
         </div>
     );
 }

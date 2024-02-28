@@ -3,7 +3,7 @@
     width: 280px;
     height: 576px;
     top: 95px;
-    left: 20px; 
+    left: 20px;     
   }
   
   .ct-container-section h1 {
@@ -22,4 +22,31 @@
     letter-spacing: 0em;
     text-align: center;
     color:#5E5E5E;
+  }
+
+  @media (min-width: 1200px) {
+
+    .ct-container-section { 
+      width: 746px;
+      height: 802px;
+      top: 95px;
+      left: 2227px;
+    }
+
+    .ct-container-section h1 {
+      width: 287px; 
+      height: 48px;
+
+      margin-left: 461px;
+      margin-top: 25px;
+      margin-right: 452px;  
+  
+      font-family: Poppins;
+      font-size: 32px;
+      font-weight: 700;
+      line-height: 48pxpx;
+      letter-spacing: 0em;
+      text-align: center;
+      color:#5E5E5E;
+    }
   }

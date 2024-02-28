@@ -5,7 +5,7 @@ export default function SectionCard(){
         <div className='ct-container-section'>
             <h1>Venha nos visitar</h1>
             <ItemCard/>
-            <ItemCard/>   
+            <ItemCard/>
         </div>
 
     )

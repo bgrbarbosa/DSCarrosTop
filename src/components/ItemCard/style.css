@@ -45,3 +45,53 @@
 
 }
 
+@media (min-width: 1200px) {
+  .container-item-card { 
+    width: 746px;
+    height: 352px;
+    top: 168px;
+    left: 227px;
+  
+    margin-top: 25px;
+    margin-right: 227px;
+    margin-left: 227px;
+  
+    border-radius: 10px;
+    border: 1px;
+    border: 1px solid #3C9AF0
+  
+  } 
+
+  .container-item-card img {
+    width: 391px;
+    height: 292px;
+    top: 188px;
+    left: 409px;
+  
+    margin-top: 20px;
+    margin-right: 173px;
+    margin-left: 182px;
+    margin-bottom: 40px;
+  }
+
+  .container-item-card h3 {
+    width: 192px;
+    height: 30px;
+    top: 490px;
+    left: 507px;
+  
+    margin-top: -3rem;
+    margin-left: 280px;
+    margin-right: 274px;
+  
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E5E5E;
+  
+  }
+}
+
